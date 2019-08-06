@@ -1,4 +1,4 @@
-A colloction of testing demo projects for react / redux, node and graphql (and other web application).
+A collection of testing demo projects for react / redux, node and graphql (and other web application).
 
 Tools used:
 
